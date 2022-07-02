@@ -27,7 +27,7 @@
 WINDOW_WIDTH, WINDOW_HEIGHT = 1000, 600
 displayscreen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 pygame.display.set_caption("Feed the Angry Bird")
-
+```
 ```python
 # Blite image object and setting its rec
 player_image = pygame.image.load("angry_bird.png")
