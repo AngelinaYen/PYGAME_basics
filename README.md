@@ -5,7 +5,7 @@
   2. documentation: http://pygame.org/docs/ref/
   3. IconArchive: https://iconarchive.com/  (下載遊戲角色)
   4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker (下載音效)
-  5. XXXXXXXXXXXX(示範廢話)
+  5. XXXXXXXXXXXX
  ------
 
 **_2. What is Pygame_**:
