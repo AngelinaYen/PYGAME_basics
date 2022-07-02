@@ -30,7 +30,7 @@ pygame.display.set_caption("Feed the Angry Bird")
 ```
 
 ```python
-# Blite image object and setting its rec
+# Blite image object and setting its rec.
 player_image = pygame.image.load("angry_bird.png")
 player_rect = player_image.get_rect()
 player_rect.left = 32
