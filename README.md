@@ -2,7 +2,7 @@
 
 1. **參考資料**
   1. Pygame Page: http://pygame.org
-  2. documentation: http://pygame.org/docs/ref/
+  2. documentation: https://www.pygame.org/news
   3. IconArchive: https://iconarchive.com/  (下載遊戲角色)
   4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker (下載音效)
   5. ~~多出的一行，示範廢話~~
