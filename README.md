@@ -38,7 +38,7 @@ player_rect.centery = WINDOW_HEIGHT//2
 displayscreen.blit(player_image, player_rect)
 ```
 **_5. Game Assets:_** <br>
-    * [Icon Archive:](https://www.leshylabs.com/apps/sfMaker/)網站提供很多遊戲角色下載
+    * [Icon Archive:](https://iconarchive.com/)網站提供很多遊戲角色下載
     * [Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/)網站可以下載遊戲特效，也可以自己簡單製作音效
     
     
